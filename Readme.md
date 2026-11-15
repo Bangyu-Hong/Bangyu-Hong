@@ -40,7 +40,7 @@ mapping, navigation and rescue operations.
 An embedded vision system with edge inference,
 object detection and robotic inspection.
 
-*Project repository is being organized.*
+[View Project](https://github.com/Bangyu-Hong/ra8p1-wheat-inspection)
 
 ## 🛠️ Technical Skills
 
