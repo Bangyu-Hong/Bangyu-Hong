@@ -26,12 +26,13 @@ robot control, and robotic arm execution.
 
 ### 2. RoboCup Autonomous Rescue Robot
 
-**Tech:** ROS · SLAM · Navigation · Manipulation
+**Tech:** ROS · SLAM · Navigation · Embedded Control
 
-Robotic system for autonomous exploration,
-mapping, navigation and rescue operations.
+A team rescue robot project focused on autonomous
+exploration and environment mapping, with a demo video,
+technical report and archived chassis firmware.
 
-*Project repository is being organized.*
+[View Project](https://github.com/Bangyu-Hong/robocup-autonomous-rescue)
 
 ### 3. Edge AI Vision System
 
