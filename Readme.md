@@ -26,11 +26,11 @@ robot control, and robotic arm execution.
 
 ### 2. RoboCup Autonomous Rescue Robot
 
-**Tech:** ROS · STM32F407 · SLAM · Navigation
+**Tech:** ROS 2 · RK3588 · RA6M5 · SLAM · RKNN
 
-A team rescue robot project focused on autonomous
-exploration and environment mapping, with a demo video,
-technical report and archived chassis firmware.
+A rescue robotics project with exploration and mapping
+materials, plus RK3588 / RA6M5 platform source for
+visual perception, motion control and robotic arm interfaces.
 
 [View Project](https://github.com/Bangyu-Hong/robocup-autonomous-rescue)
 
