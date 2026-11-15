@@ -24,13 +24,12 @@ robot control, and robotic arm execution.
 
 [View Project](https://github.com/Bangyu-Hong/rockchip)
 
-### 2. RoboCup Autonomous Rescue Robot
+### 2. RoboCup Environment Mapping Robot
 
-**Tech:** ROS 2 · RK3588 · RA6M5 · SLAM · RKNN
+**Tech:** ROS 1 · Gmapping · STM32F407 · RPLIDAR · RViz
 
-A rescue robotics project with exploration and mapping
-materials, plus RK3588 / RA6M5 platform source for
-visual perception, motion control and robotic arm interfaces.
+A mobile robot project for 2D environment mapping,
+combining laser scans, wheel odometry and TF in ROS 1.
 
 [View Project](https://github.com/Bangyu-Hong/robocup-autonomous-rescue)
 
