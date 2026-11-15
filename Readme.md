@@ -26,7 +26,7 @@ robot control, and robotic arm execution.
 
 ### 2. RoboCup Autonomous Rescue Robot
 
-**Tech:** ROS · SLAM · Navigation · Embedded Control
+**Tech:** ROS · STM32F407 · SLAM · Navigation
 
 A team rescue robot project focused on autonomous
 exploration and environment mapping, with a demo video,
