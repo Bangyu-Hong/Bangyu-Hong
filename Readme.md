@@ -65,4 +65,4 @@
 
 ## 联系方式
 
-邮箱：HongbangYu@qq.com
+邮箱：hongbang.yu@qq.com
