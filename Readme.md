@@ -65,4 +65,4 @@
 
 ## 联系方式
 
-GitHub：[Bangyu-Hong](https://github.com/Bangyu-Hong)
+邮箱：HongbangYu@qq.com
